@@ -329,4 +329,3 @@ tail -f /var/log/squid/access_cuotas.log
 4. Revisar periódicamente los logs del sistema
 5. Mantener actualizados los componentes del sistema
 
-¿Necesitas alguna aclaración adicional sobre alguna parte específica de la instalación?
