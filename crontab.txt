@@ -1,4 +1,4 @@
-Ahora vamos al crontab y agregamos estas tareas
+
 ## Sistema de cuotas de Infomed cada 10 segundos
 */1 * * * * root python /usr/local/bin/pquot-updater.py
 */1 * * * * root sleep 10 && python /usr/local/bin/pquot-updater.py
