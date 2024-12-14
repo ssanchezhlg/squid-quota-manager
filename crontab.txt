@@ -1,0 +1,28 @@
+Ahora vamos al crontab y agregamos estas tareas
+## Sistema de cuotas de Infomed cada 10 segundos
+*/1 * * * * root python /usr/local/bin/pquot-updater.py
+*/1 * * * * root sleep 10 && python /usr/local/bin/pquot-updater.py
+*/1 * * * * root sleep 20 && python /usr/local/bin/pquot-updater.py
+*/1 * * * * root sleep 30 && python /usr/local/bin/pquot-updater.py
+*/1 * * * * root sleep 40 && python /usr/local/bin/pquot-updater.py
+*/1 * * * * root sleep 50 && python /usr/local/bin/pquot-updater.py
+
+*/1 * * * * root python /usr/local/bin/pquot-update-users.py
+*/1 * * * * root sleep 10 && python /usr/local/bin/pquot-update-users.py
+*/1 * * * * root sleep 20 && python /usr/local/bin/pquot-update-users.py
+*/1 * * * * root sleep 30 && python /usr/local/bin/pquot-update-users.py
+*/1 * * * * root sleep 40 && python /usr/local/bin/pquot-update-users.py
+*/1 * * * * root sleep 50 && python /usr/local/bin/pquot-update-users.py
+
+###Resetear cuota cada 1 hora###
+0 */1 * * * root python /usr/local/bin/pquot-reset.py && /etc/init.d/squid reload > /dev/null 2>&1
+
+
+# Para reset mensual (ejecutar el primer día de cada mes a las 00:01)
+1 0 1 * *   root python /usr/local/bin/pquot-reset-mensual.py
+
+# Para reset anual (ejecutar el primer día del año a las 00:01)
+1 0 1 1 *   root python /usr/local/bin/pquot-reset-anual.py
+
+# Para reset semanal (ejecutar cada lunes a las 00:01)
+1 0 * * 1   root python /usr/local/bin/pquot-reset-semanal.py

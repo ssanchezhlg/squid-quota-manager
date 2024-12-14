@@ -1,0 +1,180 @@
+apt install php5.6 php5.6-fpm
+apt install php5.6-mysql
+
+
+apt install php7.4 php7.4-fpm
+
+apt install php7.4-mysql
+
+
+apt install php8.0 php8.0-fpm
+
+apt install php8.0-mysql
+
+
+
+##para probar el porcentaje
+
+Aquí están los tamaños equivalentes en bytes para las cantidades que mencionaste:
+
+    150 KB: 150 KB=150×1024 bytes=153,600 bytes150KB=150×1024bytes=153600bytes
+
+    700 KB: 700 KB=700×1024 bytes=716,800 bytes700KB=700×1024bytes= 716800 bytes
+	
+	
+	
+
+	
+	
+	
+	10 GB: 10 GB=10×1024×1024×1024 bytes=10,737,418,240 bytes10GB=10×1024×1024×1024bytes=  10737418240  bytes
+	
+	9 GB: 9 GB=9×1024×1024×1024 bytes=9,650,534,400 bytes9GB=9×1024×1024×1024bytes=9,650,534,400bytes
+
+    8.5 GB: 8.5 GB=8.5×1024×1024×1024 bytes=9,223,372,036,854,775,808 bytes8.5GB=8.5×1024×1024×1024bytes=9,223,372,036,854,775,808bytes (aproximadamente, ya que 8.5 GB no es una potencia exacta de 1024)
+
+    8 GB: 8 GB=8×1024×1024×1024 bytes=8,589,934,592 bytes8GB=8×1024×1024×1024bytes=8,589,934,592bytes
+
+    7 GB: 7 GB=7×1024×1024×1024 bytes=7,549,536,000 bytes7GB=7×1024×1024×1024bytes=7,549,536,000bytes
+
+
+    5 GB: 5 GB=5×1024×1024×1024 bytes=5,368,709,120 bytes5GB=5×1024×1024×1024bytes=   5368709120   bytes
+	
+	4.9 GB: 4.9 GB=4.9×1024×1024×1024 bytes=5,270,073,600 bytes4.9GB=4.9×1024×1024×1024bytes= 5270073600 bytes
+
+    4.8 GB: 4.8 GB=4.8×1024×1024×1024 bytes=5,161,241,600 bytes4.8GB=4.8×1024×1024×1024bytes= 5161241600 bytes
+
+    4 GB: 4 GB=4×1024×1024×1024 bytes=4,294,967,296 bytes4GB=4×1024×1024×1024bytes= 4294967296 bytes
+
+    3 GB: 3 GB=3×1024×1024×1024 bytes=3,221,225,472 bytes3GB=3×1024×1024×1024bytes=3,221,225,472bytes
+	
+    2.5 GB: 2.5 GB=2.5×1024×1024×1024 bytes=2,684,354,560 bytes2.5GB=2.5×1024×1024×1024bytes=2684354560 bytes
+
+    1.5 GB: 1.5 GB=1.5×1024×1024×1024 bytes=1,610,612,736 bytes1.5GB=1.5×1024×1024×1024bytes=1610612736 bytes
+	
+	1 GB: 1 GB=1×1024×1024×1024 bytes=1,073,741,824 bytes1GB=1×1024×1024×1024bytes= 1073741824 bytes	
+
+    950 MB: 950 MB=950×1024×1024 bytes=996,147,200 bytes950MB=950×1024×1024bytes= 996147200 bytes
+
+    980 MB: 980 MB=980×1024×1024 bytes=1,027,010,560 bytes980MB=980×1024×1024bytes=1,027,010,560bytes
+	
+    900 MB: 900 MB=900×1024×1024 bytes=943,718,400 bytes900MB=900×1024×1024bytes= 943718400 bytes	
+
+    800 MB: 800 MB=800×1024×1024 bytes=838,860,800 bytes800MB=800×1024×1024bytes=838860800 bytes
+
+    700 MB: 700 MB=700×1024×1024 bytes=734,003,200 bytes700MB=700×1024×1024bytes=734,003,200bytes
+
+    600 MB: 600 MB=600×1024×1024 bytes=629,145,600 bytes600MB=600×1024×1024bytes=629,145,600bytes
+
+    500 MB: 500 MB=500×1024×1024 bytes=524,288,000 bytes500MB=500×1024×1024bytes= 524288000 bytes
+
+    450 MB: 450 MB=450×1024×1024 bytes=471,859,200 bytes450MB=450×1024×1024bytes= 471859200bytes
+
+    400 MB: 400 MB=400×1024×1024 bytes=419,430,400 bytes400MB=400×1024×1024bytes= 419430400 bytes
+
+    388 MB: 388 MB=388×1024×1024 bytes=406,847,232 bytes388MB=388×1024×1024bytes= 406847232 bytes
+
+    350 MB: 350 MB=350×1024×1024 bytes=367,001,600 bytes350MB=350×1024×1024bytes=367,001,600bytes
+
+    300 MB: 300 MB=300×1024×1024 bytes=314,572,800 bytes300MB=300×1024×1024bytes= 314572800 bytes
+
+    200 MB: 200 MB=200×1024×1024 bytes=209,715,200 bytes200MB=200×1024×1024bytes=209,715,200bytes
+
+    299 MB: 299 MB=299×1024×1024 bytes=313,741,312 bytes299MB=299×1024×1024bytes= 313741312 bytes
+
+    250 MB: 250 MB=250×1024×1024 bytes=262,144,000 bytes250MB=250×1024×1024bytes=262,144,000bytes
+
+    150 MB: 150 MB=150×1024×1024 bytes=157,286,400 bytes150MB=150×1024×1024bytes=157,286,400bytes
+
+    180 MB: 180 MB=180×1024×1024 bytes=188,743,680 bytes180MB=180×1024×1024bytes= 188743680 bytes
+	
+
+25 MB: 25 MB=25×1024×1024 bytes=26214400 bytes25MB=25×1024×1024bytes=26214400  bytes
+
+30 MB: 30 MB=30×1024×1024 bytes=31457280 bytes30MB=30×1024×1024bytes=31457280 bytes
+
+35 MB: 35 MB=35×1024×1024 bytes=36700160 bytes35MB=35×1024×1024bytes=36700160 bytes
+
+40 MB: 40 MB=40×1024×1024 bytes=41943040 bytes40MB=40×1024×1024bytes=41943040 bytes
+
+45 MB: 45 MB=45×1024×1024 bytes=47185920 bytes45MB=45×1024×1024bytes=47185920 bytes
+
+50 MB: 50 MB=50×1024×1024 bytes=52428800 bytes50MB=50×1024×1024bytes=52428800 bytes
+
+55 MB: 55 MB=55×1024×1024 bytes=57671680 bytes55MB=55×1024×1024bytes=57671680 bytes
+
+60 MB: 60 MB=60×1024×1024 bytes=62914560 bytes60MB=60×1024×1024bytes=62914560 bytes
+
+65 MB: 65 MB=65×1024×1024 bytes=68157440 bytes65MB=65×1024×1024bytes=68157440 bytes
+
+70 MB: 70 MB=70×1024×1024 bytes=73400320 bytes70MB=70×1024×1024bytes=73400320 bytes
+
+75 MB: 75 MB=75×1024×1024 bytes=78643200 bytes75MB=75×1024×1024bytes=78643200 bytes
+
+80 MB: 80 MB=80×1024×1024 bytes=83886080 bytes80MB=80×1024×1024bytes=83886080 bytes
+
+85 MB: 85 MB=85×1024×1024 bytes=89128960 bytes85MB=85×1024×1024bytes=89128960 bytes
+
+90 MB: 90 MB=90×1024×1024 bytes=94371840 bytes90MB=90×1024×1024bytes=94371840 bytes
+
+95 MB: 95 MB=95×1024×1024 bytes=99614720 bytes95MB=95×1024×1024bytes=99614720 bytes
+
+100 MB: 100 MB=100×1024×1024 bytes=104857600 bytes100MB=100×1024×1024bytes= 104857600  byte
+	
+	
+
+
+
+Aquí están los tamaños equivalentes en bytes para las cantidades que mencionaste:
+
+    27 MB: 27 MB=27×1024×1024 bytes=28147200 bytes27MB=27×1024×1024bytes=  28147200   bytes
+
+    32 MB: 32 MB=32×1024×1024 bytes=33390080 bytes32MB=32×1024×1024bytes=  33390080bytes
+
+    37 MB: 37 MB=37×1024×1024 bytes=38632960 bytes37MB=37×1024×1024bytes=  38632960bytes
+
+    42 MB: 42 MB=42×1024×1024 bytes=43875840 bytes42MB=42×1024×1024bytes=  43875840bytes
+
+    47 MB: 47 MB=47×1024×1024 bytes=49118720 bytes47MB=47×1024×1024bytes=  49118720bytes
+
+    52 MB: 52 MB=52×1024×1024 bytes=54361600 bytes52MB=52×1024×1024bytes=  54361600bytes
+
+    57 MB: 57 MB=57×1024×1024 bytes=59604480 bytes57MB=57×1024×1024bytes=59604480bytes
+
+    62 MB: 62 MB=62×1024×1024 bytes=64847360 bytes62MB=62×1024×1024bytes=64847360bytes
+
+    67 MB: 67 MB=67×1024×1024 bytes=70090240 bytes67MB=67×1024×1024bytes=70090240bytes
+
+    72 MB: 72 MB=72×1024×1024 bytes=75333120 bytes72MB=72×1024×1024bytes=75333120bytes
+
+    77 MB: 77 MB=77×1024×1024 bytes=80576000 bytes77MB=77×1024×1024bytes=80576000bytes
+
+    82 MB: 82 MB=82×1024×1024 bytes=85818880 bytes82MB=82×1024×1024bytes=85818880bytes
+
+    87 MB: 87 MB=87×1024×1024 bytes=91061760 bytes87MB=87×1024×1024bytes=91061760bytes
+
+    92 MB: 92 MB=92×1024×1024 bytes=96304640 bytes92MB=92×1024×1024bytes=96304640bytes
+
+    97 MB: 97 MB=97×1024×1024 bytes=101547520 bytes97MB=97×1024×1024bytes=101547520bytes
+
+    100 MB: 100 MB=100×1024×1024 bytes=104857600 bytes100MB=100×1024×1024bytes=104857600bytes
+
+
+	
+
+
+
+se puede poner que balla cambiando de colores segun estos porcientos ya que el 100% sea un rojo bien oscuro y 
+
+desde el principo que sea un verde claro hasta un verde oscuro al 50% del 51% ya que cambie a amarillo claro hasta un amarillo oscuro al 75% 
+
+del 76% que que sea naranja claro hasta que se mescle con el rojo oscuro del 100% que los colores al ir cambiando se mesclen uno con otro para que no se 
+vea tan feo el cambio de color
+
+
+
+0 - 25%  30%  35%  40%  45%  50%   55%  60%  65%   70%   75%   80%   85%   90%   95%  100% 
+
+
+
+Idea agregar una tabla nueva en la base de datos en el cual se va a ir acumulando la cuota diaria para mostrarle al usuario lo que a cosumido en 24 horas
