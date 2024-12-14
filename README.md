@@ -71,8 +71,8 @@ CREATE USER 'pquot'@'localhost' IDENTIFIED BY 'pquotwebdb';
 GRANT ALL PRIVILEGES ON pquot.* TO 'pquot'@'localhost';
 
 -- Crear usuario para el servidor web (ajusta la IP según tu configuración)
-CREATE USER 'pquot'@'10.10.10.203' IDENTIFIED BY 'pquotwebdb';
-GRANT ALL PRIVILEGES ON pquot.* TO 'pquot'@'10.10.10.203';
+CREATE USER 'pquot'@'localhost' IDENTIFIED BY 'pquotwebdb';
+GRANT ALL PRIVILEGES ON pquot.* TO 'pquot'@'localhost';
 
 FLUSH PRIVILEGES;
 use pquot;
@@ -153,7 +153,7 @@ DATABASES = {
         'NAME': 'pquot',
         'USER': 'pquot',
         'PASSWORD': 'pquotwebdb',
-        'HOST': '10.10.10.110',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
